@@ -43,3 +43,5 @@ npm i -D @types/supertest
 ## para fazer Deploy
 
 npm i tsup -D
+
+npm i pg
